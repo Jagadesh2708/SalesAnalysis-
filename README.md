@@ -1,7 +1,7 @@
 <h1>Superstore Sample Data</h1>
 
 <h2>Description</h2>
-Project consists of a simple data analysis and Visualization which gives the detail information about the Sales across different regions in the country over a period of time based on the dataset obtained from kaggle about a Superstore.
+Project consists of a simple Data Analysis and Visualization which gives the detail information about the Sales across different categoris and regions in the country over period of time based on the dataset obtained from kaggle about a Superstore.
 <br />
 
 
@@ -20,14 +20,3 @@ Project consists of a simple data analysis and Visualization which gives the det
 Report which gives the detail information of Sales: <br/>
 <img src="https://i.imgur.com/WGluyU2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
